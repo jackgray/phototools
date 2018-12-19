@@ -14,5 +14,5 @@ pixelSize.py
 calculates the size of a single pixel given the photo resolution in either lp/mm or ppi
 
 res_conv.py
-returns the Enlargement latitude of an image based, or how much an image can be enlarged before a noticable loss in quality
+returns the Enlargement latitude of an image, or how much an image can be enlarged before a noticable loss in quality
 
